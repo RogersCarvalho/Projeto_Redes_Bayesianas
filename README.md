@@ -18,4 +18,5 @@ novas relações para estender a ontologia inicial do NELL. As inferências real
 também indicam que as Redes Bayesianas induzidas por ambos algoritmos são capazes de 
 descobrir novas informações para serem inseridas na base de conhecimento
 do NELL. Neste repositório é disponibilizado os algoritmos K2 e DBMC utilizados no 
-projeto, além do script desenvolvido em Python utilizado para construir a base de dados.
+projeto, além do script desenvolvido em Python utilizado para construir o 
+conjunto de dados.
