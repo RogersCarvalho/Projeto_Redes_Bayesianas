@@ -1,8 +1,7 @@
 # Projeto Redes Bayesianas 
 
-Este projeto foi desenvolvido na Universidade Federal de São João del-Rei/MG sob a 
-orientação do professor Dr. Edimilson Batista dos Santos. Uma breve descrição do projeto 
-é apresentada. 
+Este projeto foi desenvolvido sob a orientação do Dr. Edimilson Batista dos Santos
+professor na Universidade Federal de São João del-Rei/MG. Uma breve descrição do projeto é apresentada. 
 O primeiro sistema de aprendizado sem fim descrito na literatura é chamado NELL 
 (Never-Ending Language Learning). O objetivo principal do sistema
 NELL é aprender a ler a web, cada dia melhor, para armazenar o conhecimento
