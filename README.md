@@ -1,4 +1,4 @@
-# Projeto final de mestrado 
+# Projeto Redes Bayesianas 
 
 Este projeto foi desenvolvido na Universidade Federal de São João del-Rei sob a 
 orientação do professor Dr. Edimilson Batista dos Santos. Para contextualizar o 
